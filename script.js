@@ -9,6 +9,5 @@ function trailingZeros(n) {
 	
 	return count;
 }
-
-// const input = prompt("Enter a number");
-// alert(trailingZeros(input));
+const input = prompt("Enter a number");
+alert(trailingZeros(input));
